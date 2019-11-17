@@ -18,7 +18,7 @@
 #include "xp_quaternion.h"
 #include <glog/logging.h>
 
-namespace XP {
+namespace XP {  
 
 // angle2dcm 'ZYX'
 // https://d3cw3dd2w32x2b.cloudfront.net/wp-content/uploads/2012/07/euler-angles1.pdf
